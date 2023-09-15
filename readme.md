@@ -1,1 +1,1 @@
-# Fabric.js image editor
+# Fabric.js image editor,
